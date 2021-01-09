@@ -30,6 +30,13 @@ main {
     margin-bottom: calc(var(--footer-height));
 }
 
+#story{
+    display: none;
+}
+
+
+
+
 section {
     background-color: var(--color5);
     width: 1000px;
